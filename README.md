@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://images.vexels.com/media/users/3/143399/isolated/preview/e54324511a9c75fb5aecf93e0a42c1e7-iconos-de-dibujos-animados-de-regalo.png" width="30px"> Gazetas Giveaway! <img src="https://images.vexels.com/media/users/3/143399/isolated/preview/e54324511a9c75fb5aecf93e0a42c1e7-iconos-de-dibujos-animados-de-regalo.png" width="30px"></h1>
 <p align="center">Un bot De Sorteos En Español Y Con Una Interfaz Muy Facil De Entender !</p>
 
-## ✨ Actualizacion
+## ✨〢Actualizacion
 Gazetas Giveaway Actualizo Su Fantastica Interfaz Para Hacerla Mas Sencilla De Usar Se Agrego Una Guia Y Una Documentacion Y Soporte
 
-## 🚧 Permisos
+## 🚧〢Permisos
 
 -  rear Invitacion
 - Leer Mensajes
@@ -20,7 +20,7 @@ Gazetas Giveaway Actualizo Su Fantastica Interfaz Para Hacerla Mas Sencilla De U
 
 > 🍂NOTA: estos permisos son Necesarios Para El Correcto Funcionamiento de Gazetas Giveaway Pero Tengo Un Sistema Anti-Errores 
 
-## 📝 Tutorial
+## 📝〢Tutorial
 
 A Tutorial has been uploaded on YouTube, Watch it by clicking on the image down below
 
@@ -30,11 +30,11 @@ Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installa
 
 VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝〢[Support Server](https://discord.gg/sbySMS7m3v)
 
 If you have major coding issues with this bot, please join and ask for help.
 
-## 📸 Screenshots
+## 📸〢Screenshots
 
 <div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
 
